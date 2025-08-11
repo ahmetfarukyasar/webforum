@@ -13,7 +13,7 @@ Bu proje, Laravel kullanılarak geliştirilmiş bir forum sitesidir.
 
 1. Reposu klonla:
 ```bash
-git clone https://github.com/Scorpiolupe/webforum.git
+git clone https://github.com/ahmetfarukyasar/webforum.git
 ```
 2. Gerekli paketleri yükle:
 ```
